@@ -59,7 +59,6 @@ namespace ApexUrpLab
             view.backgroundColor = new Color(.46f, .63f, .73f);
             view.farClipPlane = 1200;
             view.allowHDR = false;
-            cameraObject.AddComponent<AudioListener>();
 
             var sun = new GameObject("Mountain sunshine").AddComponent<Light>();
             sun.type = LightType.Directional;
