@@ -1,0 +1,96 @@
+{
+  "Cars/mclaren.glb": {
+    "bytes": 2160824,
+    "sha256": "7cc7558f0be6c0a80dd3a80ca0e8b80aefa2b75ebcdfb06970fe0abc17d5c440",
+    "nodes": 13,
+    "triangles": 36925
+  },
+  "Cars/pagani.glb": {
+    "bytes": 3864932,
+    "sha256": "bba5f467a34c37f0cbb3820eb81c73f62b399d4035640c4e2012fb7ba24bcc7b",
+    "nodes": 10,
+    "triangles": 73484
+  },
+  "Cars/lexus.glb": {
+    "bytes": 5964116,
+    "sha256": "b36c7e5dcd5bdc147db55d4765f20b564f58e559374c6868ceb635a55d2e5fe1",
+    "nodes": 13,
+    "triangles": 100311
+  },
+  "Cars/f1.glb": {
+    "bytes": 3451900,
+    "sha256": "d105631b33350fd0a2f724b2ec0aa04f8f0950ac60cefefd9e52c724f613ab35",
+    "nodes": 10,
+    "triangles": 78377
+  },
+  "Cars/eb110.glb": {
+    "bytes": 4385636,
+    "sha256": "27612d69846bd3a359a84529cfeb7998b9b534ca1de78d8db03021e3673c50e4",
+    "nodes": 10,
+    "triangles": 92530
+  },
+  "Cars/murcielago.glb": {
+    "bytes": 5972400,
+    "sha256": "08f3873529e393ace193598e2b079cec27fe0430880501654eaab1ce1b959f72",
+    "nodes": 42,
+    "triangles": 79552
+  },
+  "Forest.glb": {
+    "bytes": 10345156,
+    "sha256": "b05710be4e0de153ff077a2cf5084525869d783d11806a66ff8f138bb0feab1d",
+    "nodes": 101,
+    "triangles": 119763
+  },
+  "Marina.glb": {
+    "bytes": 9196688,
+    "sha256": "d21e11f418740f43d458774293d95fac6e61ca5cc2b2d8045cd95cf4bbe2ae49",
+    "nodes": 75,
+    "triangles": 97483
+  },
+  "Plants.glb": {
+    "bytes": 2376544,
+    "sha256": "f7f105c2f042e8e37ab0996913c91c7dfa47ee3720a1f55a2e2f2412c32ecb20",
+    "nodes": 10,
+    "triangles": 10741
+  },
+  "ForestRoute.bytes": {
+    "bytes": 68612,
+    "sha256": "d91ac0260827c313301cdb317cca230a1db278cf4a36052957bdaed69f37feb3"
+  },
+  "MarinaRoute.bytes": {
+    "bytes": 38168,
+    "sha256": "d18a7e5c6b70b1e6c85448e0770f65312f0eb35cc9ed81b470475a5d2c624de1"
+  },
+  "ground.bytes": {
+    "bytes": 840744,
+    "sha256": "b1da021ac46165d5bd4c153bc2fe4e224fb4a6f08fc783d1bc7b5eff7ff8d7e2"
+  },
+  "plants.bytes": {
+    "bytes": 288260,
+    "sha256": "291fabfe804c385306461ca425c1817ea9ca80d83eb1684c57fe8614e98412f2"
+  },
+  "Scans/RoadColor.jpg": {
+    "bytes": 238172,
+    "sha256": "0b33cc1923f1d6d47c286932cc007df0b10de344a4fcc599267680b7bef64567"
+  },
+  "Scans/VergeColor.jpg": {
+    "bytes": 135593,
+    "sha256": "9439434166c9a66c91d7a7f04e0a2d051c0804a547381be6a139f6b45b34303f"
+  },
+  "Scans/FloorColor.jpg": {
+    "bytes": 209914,
+    "sha256": "6c63f8470797bdfe6783ef4be70c4d949f0b7511ab867ba9f07dad95318a6992"
+  },
+  "Scans/ApronColor.jpg": {
+    "bytes": 175073,
+    "sha256": "478520145f8d7267427df68cd96e4895335570f6113bcb2c0e229960d0d3f82c"
+  },
+  "Scans/RoadNormal.png": {
+    "bytes": 1330393,
+    "sha256": "7d2172222d0cb40581b95eda3138de44bd828c9408d381c4c88670787aca50e3"
+  },
+  "Scans/RoadMask.png": {
+    "bytes": 705612,
+    "sha256": "94cec2fffc005bda3de16f0ce4b1e587179f24dbb198d1483e67c0cb52337234"
+  }
+}

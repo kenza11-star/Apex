@@ -1,0 +1,24 @@
+PASS 7 Unity C# sources parsed by Roslyn in C# 9 mode
+PASS 19 resource hashes match the anchored migration inputs
+PASS Forest Ridge is a 2299.73 m loop with 1,050 points
+PASS Marina is a 1199.09 m loop with 571 points
+PASS negative grid offsets wrap across the finish line
+PASS lane offsets preserve a physically meaningful starting grid
+PASS rails retained with finite, nondegenerate dimensions
+PASS 216 route samples align with reflected ground triangles (max 0.013 m)
+PASS Forest rejects reverse and off-road start crossings
+PASS Forest rejects a skipped checkpoint
+PASS Forest validates the 28-gate lap
+PASS Forest resets timing without discarding completed laps
+PASS Marina rejects reverse and off-road start crossings
+PASS Marina rejects a skipped checkpoint
+PASS Marina validates the 28-gate lap
+PASS Marina resets timing without discarding completed laps
+PASS portable acceleration model reaches forward speed
+PASS impact reduces the requested longitudinal speed
+PASS brake-to-reverse requires a hold while stopped
+PASS continued brake hold gives limited reverse speed
+PASS prepared scene links to the committed LabSession script GUID
+PASS committed Build Settings enable the same scene and GUID
+PASS documented cloud hook matches the shared prepare entry point
+VERIFIED 23 assertions
