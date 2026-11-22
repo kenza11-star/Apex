@@ -1,0 +1,143 @@
+APEX RACING / WATERFRONT CIRCUIT
+Asset notices
+
+2012 Pagani Huayra
+Author: Ddiaz Design (https://sketchfab.com/ddiaz-design)
+Source: https://sketchfab.com/3d-models/2012-pagani-huayra-2d157e626e6e4612bf074b03b2bdadf7
+License: CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+Adaptation: game-ready Godot import, wheel transforms, material and geometry preparation.
+The noncommercial license applies to the source model and this model adaptation.
+
+Lexus LC 500 WALD Sports Line | www.vecarz.com
+Author: vecarz (https://sketchfab.com/heynic)
+Source: https://sketchfab.com/3d-models/lexus-lc-500-wald-sports-line-wwwvecarzcom-120879ad2666438b86d080dcf26621fa
+License: CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+Adaptation: game-ready Godot import, wheel transforms, material and geometry preparation.
+The noncommercial license applies to the source model and this model adaptation.
+
+Player avatar
+User-provided VRoid character. Author and title fields are empty in the file.
+Model permission URL: https://hub.vroid.com/license?allowed_to_use_user=everyone&characterization_allowed_user=everyone&corporate_commercial_use=allow&credit=unnecessary&modification=allow&personal_commercial_use=profit&redistribution=allow&sexual_expression=allow&version=1&violent_expression=allow
+Adaptation: Godot skeletal conversion and original procedural performance.
+
+Godot Engine
+https://godotengine.org/license
+The editor and engine are distributed under the MIT license.
+
+McLaren W1
+Author: Mona x Supercars (https://sketchfab.com/Car2022)
+Source: https://sketchfab.com/3d-models/mclaren-w1-c422bb0700f84c079f4dd0d2738c67c7
+CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
+Adaptation: rescaled and reorganized the mesh, compressed textures, tuned
+material roughness, baked a distance mesh, and integrated wheels and left door.
+
+Classic vehicle models by Alex.Ka. (https://sketchfab.com/Alex.Ka.)
+McLaren F1 1993 — CC BY-NC 4.0
+https://sketchfab.com/3d-models/mclaren-f1-1993-by-alexka-294df724d96241cdbe0e0f3c91ad7fce
+Bugatti EB110 Super Sport 1992 — CC BY-NC 4.0
+https://sketchfab.com/3d-models/bugatti-eb110-super-sport-1992-by-alexka-4af92c51ecdd4efa9b1c19a1163d9f46
+Both models were prepared for gameplay, with wheel groups, roughness settings, texture resizing and distance meshes.
+Lamborghini Murciélago 2001 — CC BY-NC-ND 4.0
+https://sketchfab.com/3d-models/lamborghini-murcielago-2001-3be98a3c092640cd9e4772e4dfcd8337
+The original GLB in this project is unchanged. Godot imports it technically and splits wheel index lists in memory during gameplay.
+https://creativecommons.org/licenses/by-nc/4.0/
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+Asphalt Track PBR — Dimitrios Savva / Poly Haven, CC0 1.0
+https://polyhaven.com/a/asphalt_track
+Game uses the 1K Diffuse, Normal (GL), and Roughness maps. Wetness and puddle shaders are original.
+
+Engine sound recordings
+Pagani Huayra BC Roadster — TvdL Films, CC BY 3.0
+https://commons.wikimedia.org/wiki/File:Pagani_Huayra_-_engine_and_exhaust_sound_(YouTube_FbglaI_pVV8).opus
+Used for the Huayra, a different variant of the game model.
+
+Bugatti EB110 SS Burnout — juliano silva, CC BY 3.0
+https://commons.wikimedia.org/wiki/File:Bugatti_EB110_-_engine_and_exhaust_sound_(YouTube_r1GoPGO_j8w).opus
+Used for the Bugatti EB110 Super Sport.
+
+Lambo idle and rev — cheesepuff, CC0 1.0
+https://freesound.org/people/cheesepuff/sounds/112075/
+Recording of a Murciélago LP 670 SuperVeloce, used for the 2001 Murciélago.
+
+BMW V12 LMR (1999) — Edvvc, CC BY-SA 3.0
+https://commons.wikimedia.org/wiki/File:BMW_V12_LMR_(1999).ogg
+Used as a BMW V12 sound proxy for the McLaren F1. The adapted f1_engine WAV files are shared under CC BY-SA 3.0, https://creativecommons.org/licenses/by-sa/3.0/.
+
+McLaren P1 engine and exhaust — Alfisti J, CC BY 3.0
+https://commons.wikimedia.org/wiki/File:McLaren_P1_-_engine_and_exhaust_sound_(YouTube_M1xuT1ue10c).opus
+Used as a proxy for the McLaren W1.
+
+Ferrari 458 Speciale engine and exhaust — TvdL Films, CC BY 3.0
+https://commons.wikimedia.org/wiki/File:Ferrari_458_Speciale_-_engine_and_exhaust_sound_(YouTube_nltPXKAN6BI).opus
+Used as a V8 proxy for the Lexus LC 500.
+
+Recordings were cut, filtered, crossfaded, looped and pitch matched. CC BY 3.0 terms: https://creativecommons.org/licenses/by/3.0/.
+
+Optional personal VRM
+The user can select their original local VRM 0.x through the system file picker.
+Its author is credited in the driver menu. APEX does not package imported VRMs.
+Supplied example: FREE ADOPTABLE by Youtube.com/@twigvt.
+
+Marina Environment V1.7 — Poly Haven, CC0 1.0
+License: https://polyhaven.com/license
+Leafy Grass — https://polyhaven.com/a/leafy_grass
+Grass Path 2 — https://polyhaven.com/a/grass_path_2
+Tree Bark 03 — https://polyhaven.com/a/tree_bark_03
+Garage Floor — https://polyhaven.com/a/garage_floor
+Corrugated Iron 03 — https://polyhaven.com/a/corrugated_iron_03
+Rock 3 — https://polyhaven.com/a/rock_3
+Island Tree 02 (leaf atlas) — https://polyhaven.com/a/island_tree_02
+Grass Bermuda 01 (foliage atlas) — https://polyhaven.com/a/grass_bermuda_01
+Kloofendal 48d Partly Cloudy (Pure Sky) — Greg Zaal / Jarod Guest
+https://polyhaven.com/a/kloofendal_48d_partly_cloudy_puresky
+Terrain scans were downscaled and packed as color plus normal/roughness. The
+leaf and grass card textures are atlas derivatives. The 1K sky image was
+tone-mapped for the compatibility renderer. Wave shapes and palm meshes are
+original to APEX Racing.
+
+Forest Ridge V1.8 — Poly Haven CC0 1.0
+https://polyhaven.com/license
+Forest Ground 04: https://polyhaven.com/a/forest_ground_04
+Pine Bark: https://polyhaven.com/a/pine_bark
+Pine Tree 01 (twig color and alpha only): https://polyhaven.com/a/pine_tree_01
+Fern 02 (leaf color and alpha): https://polyhaven.com/a/fern_02
+Rock Moss Set 02 (photographic surface maps): https://polyhaven.com/a/rock_moss_set_02
+Rough Wood: https://polyhaven.com/a/rough_wood
+The Asphalt Track, Rock 3, Garage Floor, Corrugated Iron 03 and panoramic sky maps
+listed above are reused here. Terrain and hub geometry are authored for APEX.
+
+Forest Ridge V1.9 — additional Poly Haven CC0 scans from the supplied asset list
+Asphalt 02: https://polyhaven.com/a/asphalt_02
+Asphalt Pit Lane: https://polyhaven.com/a/asphalt_pit_lane
+Forest Ground 06: https://polyhaven.com/a/forest_ground_06
+River Small Rocks: https://polyhaven.com/a/river_small_rocks
+Rock Pitted Mossy: https://polyhaven.com/a/rock_pitted_mossy
+Wooden Planks: https://polyhaven.com/a/wooden_planks
+Color and packed normals/roughness maps were resized for mobile.
+
+Forest Ridge animated river textures
+CheapWater by Mirko Kunze (MIT): water_normal.png, resized for use as ripple_normal.png.
+Waterways-Net by Kasper Arnklit Frandsen (MIT): foam_noise.png, resized.
+Stylized Water by Godot Learning (CC0): water_normal_b.png, resized for use as current_normal.png.
+Full notices for these uploaded texture packs are in this directory. River
+geometry and the runtime shader are authored in APEX Racing.
+
+Forest Ridge V1.10 — Vegetation Kit source catalog (Poly Haven, CC0 1.0)
+https://polyhaven.com/license
+Fir Sapling: https://polyhaven.com/a/fir_sapling
+Pine Sapling Small: https://polyhaven.com/a/pine_sapling_small
+Island Tree 02: https://polyhaven.com/a/island_tree_02
+Fern 02: https://polyhaven.com/a/fern_02
+Grass Medium 01: https://polyhaven.com/a/grass_medium_01
+Moss 01: https://polyhaven.com/a/moss_01
+Plant cards for fir, pine, broadleaf and fern were rendered from the
+source GLTF meshes and diffuse/alpha textures. Shrub and copper variants
+derive from the broadleaf rendering. Grass and moss use the source atlas
+color and alpha. Roadside placement and forest lighting are original.
+
+Forest Ridge V1.12 — 3D vegetation (Poly Haven, CC0 1.0)
+Fir Sapling: decimated trunk and bark texture.
+Island Tree 02: decimated trunk, bark texture and atlas for curved leaf blades.
+Fern 02: frond mesh plus diffuse and opacity textures.
+Links listed above. Additional canopy, shrub and grass meshes are authored for APEX Racing.

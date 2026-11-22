@@ -1,0 +1,16 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Bb]uilds/
+Verification/bin/
+Verification/obj/
+__pycache__/
+*.csproj.user
+Assets/APEX/Generated/
+Assets/APEX/Generated.meta
+Assets/Resources/APEX/Materials/
+Assets/Resources/APEX/Materials.meta
+Assets/Resources/APEX/**/*.glb
+Assets/Resources/APEX/**/*.glb.meta
